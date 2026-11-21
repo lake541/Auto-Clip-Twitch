@@ -1,6 +1,6 @@
 # Auto-Clip-Twitch
 Free Python auto-clipper for Twitch VODs: 9:16 Split-Screen, Whisper subtitles &amp; web review UI. 
-🇷🇺 Сделал бесплатную прогу, которая сама нарезает стримы с Twitch в Shorts и TikTok (без водяных знаков и подписок)
+🇷🇺 Сделал бесплатную прогу, которая сама нарезает стримы с Twitch в Shorts и TikTok (без водяных знаков)
 
     ⚠️ Дисклеймер: Весь этот проект с нуля навайбкодили в диалоге с нейросетями. Код рабочий, режет и рендерит как надо, но под капотом это чистый вайбкодинг — без претензий на идеальную архитектуру, зато быстро, бесплатно и решает задачу.
 
@@ -34,7 +34,11 @@ Free Python auto-clipper for Twitch VODs: 9:16 Split-Screen, Whisper subtitles &
     python vod_lokal_site.py
 
 Сразу после этого откроется браузер с панелью управления: вставляешь ссылку на VOD, выставляешь рамку своей вебкамеры в процентах, жмёшь «Нарезать стрим» — и через пару минут забираешь готовые шортсы.
-🇺🇸 I Vibe-Coded a Free App That Automatically Cuts Twitch Streams into Shorts & TikToks (No Watermarks, No Subscriptions)
+
+🎮 Support / Поддержка: Follow my Twitch channel — twitch.tv/yranto
+
+
+🇺🇸 I Vibe-Coded a Free App That Automatically Cuts Twitch Streams into Shorts & TikToks (No Watermarks) 
 
     ⚠️ Disclaimer: This entire project was 100% vibe-coded with AI. It works, cuts, and renders clips properly, so don't expect enterprise-grade software architecture — it's pure vibe-coding built fast and free to get the job done.
 
@@ -68,3 +72,6 @@ Setup takes about 3 minutes and runs fine on a regular home PC:
     python vod_lokal_site.py
 
 Your browser will open the control panel right away: paste your VOD link, set your webcam crop area in percentages, hit “Clip Stream”, and grab your ready-to-post Shorts a couple of minutes later.
+
+
+🎮 Support / Поддержка: Follow my Twitch channel — twitch.tv/yranto
